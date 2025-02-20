@@ -1,13 +1,13 @@
 <template>
-    <nav class="flex justify-between items-center p-4 bg-[#FFF1BE] shadow-md">
-      <div class="flex items-center space-x-2">
-        <img src="~/assets/dish_full_fit.png" alt="Dish Icon" class="h-8" />
-        <span class="text-xl font-bold">Generic Socionics Site</span>
-      </div>
-    </nav>
-  </template>
+  <nav class="flex justify-between items-center px-4 py-3 bg-[#FFF1BE] shadow-md border-b-[1.5px] border-black">
+    <div class="flex items-center space-x-2">
+      <img src="~/assets/dish_full_fit.png" alt="Dish Icon" class="h-8" />
+      <span class="text-xl font-bold">Generic Socionics Site</span>
+    </div>
+  </nav>
+</template>
   
-  <script setup>
+<script setup>
   import { ref } from 'vue';
   
   const isDarkMode = ref(false);
@@ -15,4 +15,4 @@
   const toggleDarkMode = () => {
     isDarkMode.value = !isDarkMode.value;
   };
-  </script>
+</script>
