@@ -9,9 +9,18 @@
         </span>
         Socionics website
       </p>
-      <p class="text-base sm:text-lg md:text-xl mt-4 max-w-4xl pb-10">
+      <p class="text-base sm:text-lg md:text-xl mt-4 max-w-4xl">
         Welcome to Yet Another Generic Socionics Site. This is a website for all Socionics related discussions. The site encompasses information from various schools but emphasizes Model A (SCS) & Model G (Gulenko). This website is for both people who are extremely familiar with Socionics as well as people who are simply learning about the theory.
       </p>
+      <div class="pt-4 space-x-4 flex">
+        <button class="bg-gradient-to-r from-[#EB00FF] to-[#5BABFF] text-white py-2 rounded-md font-bold shadow-md hover:opacity-80 transition duration-300 text-lg w-48">
+          Join Discord
+        </button>
+        <button class="border-2 border-black text-black py-2 rounded-md font-bold hover:bg-black hover:text-white transition duration-300 text-lg w-48 outline-2 outline-black outline-offset-2">
+          Explore
+        </button>
+      </div>
+      <div class="pb-10"></div>
     </div>
   </div>
 </template>
