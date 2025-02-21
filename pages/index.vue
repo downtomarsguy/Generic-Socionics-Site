@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#FFF6D4] min-h-screen">
     <Navbar />
-    <div class="mt-10 sm:mt-4 md:mt-16 lg:mt-16 mx-4 sm:mx-8 md:mx-16">
+    <div class="mt-10 sm:mt-4 md:mt-20 lg:mt-28 mx-4 sm:mx-8 md:mx-16">
       <p class="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
         A 
         <span class="bg-clip-text leading-tight text-transparent bg-gradient-to-r from-[#EB00FF] to-[#5BABFF]">
