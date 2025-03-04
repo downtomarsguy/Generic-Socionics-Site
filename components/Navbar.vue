@@ -2,7 +2,7 @@
   <nav class="flex justify-between items-center px-4 py-3 bg-[#FFF1BE] shadow-md border-b-[1.5px] border-black">
     <div class="flex items-center space-x-2">
       <a href="/" class="flex items-center space-x-2 hover:opacity-80 transition-all">
-        <img src="~/assets/dish_full_fit.png" alt="Dish Icon" class="h-8" />
+        <img src="~/assets/dishes/dish_full_fit.png" alt="Dish Icon" class="h-8" />
         <span class="text-xl font-bold">{{ siteName }}</span>
       </a>
     </div>

@@ -10,7 +10,7 @@
         Socionics website
       </p>
       <p class="text-base sm:text-lg md:text-xl mt-4 max-w-4xl">
-        Welcome to Yet Another Generic Socionics Site. This is a website for all Socionics related discussions. The site encompasses information from various schools but emphasizes Model A (SCS) & Model G (Gulenko). This website is for both people who are extremely familiar with Socionics as well as people who are simply learning about the theory.
+        Welcome to Yet Another Generic Socionics Site. The website will hold discussions on various schools such as Model A, Model G, Classical Socionics (SCS), Western Socionics (SWS) etc etc. The point of the site is to foster a collection of resources and guides for newcomers who are ready to learn about Socionics.
       </p>
       <div class="pt-4 space-x-4 flex">
         <button class="bg-gradient-to-r from-[#EB00FF] to-[#5BABFF] text-white py-2 rounded-md font-bold shadow-md hover:opacity-80 transition duration-300 text-lg w-48">
